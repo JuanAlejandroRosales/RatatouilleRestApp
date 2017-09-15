@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher2.png",
+        "source": "D:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

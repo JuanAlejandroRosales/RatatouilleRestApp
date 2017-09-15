@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:16:1-66:12
+	package
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:17:5-44
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:19:22-64
+application
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:21:5-64:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:26:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Juan Alejandro\.android\build-cache\d482088935a8ccfe1ce77600d62da729bc5c425e\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Juan Alejandro\.android\build-cache\335636cc5aa842c2c9b3f1f3012aff3d05199d77\output\AndroidManifest.xml:8:5-20
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:32:5-38:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:25:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:26:9-35
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:22:9-60
+service#ratatouillerestapp.upc.edu.pe.service.SyncService
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:29:18-53
+activity#ratatouillerestapp.upc.edu.pe.ui.splash.SplashActivity
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:33:13-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:32:13-82
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:38:27-74
+activity#ratatouillerestapp.upc.edu.pe.ui.login.LoginActivity
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:43:13-80
+activity#ratatouillerestapp.upc.edu.pe.ui.main.MainActivity
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:48:13-78
+activity#ratatouillerestapp.upc.edu.pe.ui.feed.FeedActivity
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:52:9-62:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:56:13-49
+	android:parentActivityName
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:55:13-63
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:53:13-78
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:59:13-61:57
+	android:value
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:61:17-54
+	android:name
+		ADDED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml:60:17-63
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Juan Alejandro\.android\build-cache\d482088935a8ccfe1ce77600d62da729bc5c425e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\f42ad046a997a9b3a98d2b9e05f00fb20313b889\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\a8bcc250403f39d914a314e19ba4db9c3d9da42a\output\AndroidManifest.xml:23:5-25:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Juan Alejandro\.android\build-cache\d81adbeb066c050a56aeb1f16b3ac5ad74118afa\output\AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Juan Alejandro\.android\build-cache\f96931eec81d30a351328e78aa7bb2bbfc1b6188\output\AndroidManifest.xml:5:5-43
+MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Juan Alejandro\.android\build-cache\5391f42cb91c4414190ff3caf9f4416a204c08cf\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\f8615611323d4a490c95b741e61da942abca8cba\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Juan Alejandro\.android\build-cache\335636cc5aa842c2c9b3f1f3012aff3d05199d77\output\AndroidManifest.xml:6:5-43
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:25:5-27:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\RatatouilleRestApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\f8615611323d4a490c95b741e61da942abca8cba\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Juan Alejandro\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:33:9-37:40
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:35:13-71
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] C:\Users\Juan Alejandro\.android\build-cache\188dd2b26d338c66b56978e1d890005802e9065e\output\AndroidManifest.xml:34:13-63

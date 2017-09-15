@@ -1,0 +1,7 @@
+#Fri Sep 15 11:08:15 COT 2017
+base.0=D\:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0af7e5d47fbb0e1d231742d37f7f719c45d76fb3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74c49c30a5ee6c115f1e834d8d0c00f2a1d741af\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74c49c30a5ee6c115f1e834d8d0c00f2a1d741af
+file.0=D\:\\AndroidStudioProjects\\RatatouilleRestApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0af7e5d47fbb0e1d231742d37f7f719c45d76fb3\\classes.dex
